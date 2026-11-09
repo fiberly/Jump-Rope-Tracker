@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Terms of Service | Jump Rope Tracker</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { margin: 0; font: 1rem/1.65 system-ui, sans-serif; }
+    main { max-width: 46rem; margin: auto; padding: clamp(1.25rem, 5vw, 3rem); }
+    .app-name { font-weight: 700; margin: 0; }
+    h1 { line-height: 1.15; margin: 0.4rem 0 0.75rem; font-size: clamp(2rem, 6vw, 3.25rem); }
+    h2 { line-height: 1.3; margin: 0 0 0.4rem; font-size: 1.25rem; }
+    p { margin: 0; }
+    time { display: inline-block; margin-top: 0.25rem; }
+    section { margin-top: 1.75rem; }
+    footer { border-top: 1px solid GrayText; margin-top: 2rem; padding-top: 1rem; }
+    li { margin-block: 0.35rem; }
+  </style>
+</head>
+<body>
+  <main data-document="terms">
+    <header>
+      <p class="app-name">Jump Rope Tracker</p>
+      <h1>Terms of Service</h1>
+      <p>Effective <time datetime="2026-11-08">November 8, 2026</time></p>
+    </header>
+    <section>
+      <h2>About these terms</h2>
+      <p>These terms apply to Jump Rope Tracker, published by Daniel Barton. By accepting these terms, you agree to follow them when using the app. If you obtained the app through the App Store, Apple&#x27;s Standard End User License Agreement governs your app license unless a custom license was provided through the App Store.</p>
+    </section>
+    <section>
+      <h2>Workouts and safety</h2>
+      <p>Use Jump Rope Tracker for general fitness tracking. Jump counts, timing, distance, calorie estimates, and Health data can be incomplete or inaccurate. Use the app in a clear space, secure your device, and exercise within your abilities. Stop if you experience pain, dizziness, or other concerning symptoms. Seek advice from a qualified healthcare professional for medical or exercise decisions.</p>
+    </section>
+    <section>
+      <h2>Your use</h2>
+      <p>Use the app lawfully, respect other people’s privacy, and obtain their permission before including them in a camera or multiplayer session. Share only information you have permission to share. Keep any exported backup files secure.</p>
+    </section>
+    <section>
+      <h2>Ads and purchases</h2>
+      <p>Supported versions may show ads. Where offered, Remove Ads is a one-time App Store purchase. Apple handles payment, purchase restoration, and refund requests under its store terms and applicable law.</p>
+    </section>
+    <section>
+      <h2>Third-party services</h2>
+      <p>The app uses Google MediaPipe for camera pose tracking. Optional features may use Apple Health, SharePlay, local device connectivity, or advertising services. See the links below and the Privacy Policy for details about these services.</p>
+    </section>
+    <section>
+      <h2>Availability and updates</h2>
+      <p>Feature availability depends on your device, permissions, and the services you use. We may update the app and these terms. The app will present material changes to these terms for review before continued use.</p>
+    </section>
+    <section>
+      <h2>Consumer rights</h2>
+      <p>To the extent permitted by law, the app is provided as available and without warranties about uninterrupted operation or the accuracy of its estimates. Your mandatory consumer rights and remedies apply.</p>
+    </section>
+    <section>
+      <h2>Contact</h2>
+      <p>For questions about these terms, email Daniel Barton using the contact link below.</p>
+    </section>
+    <footer>
+      <h2>Contact and resources</h2>
+      <ul>
+      <li><a href="mailto:danielbbusiness22@gmail.com">danielbbusiness22@gmail.com</a></li>
+      <li><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Apple Standard End User License Agreement</a></li>
+      <li><a href="https://developers.google.com/edge/mediapipe/legal/tos">Google MediaPipe Terms of Service</a></li>
+      </ul>
+    </footer>
+  </main>
+</body>
+</html>
